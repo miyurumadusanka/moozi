@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Moozi</string>
+    <string name="msg_loading">Please wait…</string>
+
+    <!-- TODO: Auth placeholder text -->
+    <string name="txt_not_account">Don\'t have a account?</string>
+    <string name="txt_account_create">Create a new account</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">SignUp</string>
+    <string name="txt_already_account">Already have a account?</string>
+    <string name="txt_login">Login</string>
+    <string name="msg_empty_fields">The fields should not be empty</string>
+    <string name="txt_radio_btn_student">Student</string>
+    <string name="txt_radio_btn_teacher">Teacher</string>
+
+    <!-- TODO: Bottom Navigation bar placeholder text -->
+    <string name="txt_home">Home</string>
+    <string name="txt_history">History</string>
+    <string name="txt_profile">Profile</string>
+
+    <!-- TODO: Home placeholder text -->
+    <string name="txt_today_clz">Today Classes</string>
+    <string name="txt_upcoming_clz">Upcoming Classes</string>
+    <string name="btn_txt_join">Join</string>
+    <string name="btn_txt_add">Add</string>
+
+    <!-- TODO: History placeholder text -->
+    <string name="txt_hist_header">Previous Classes</string>
+
+    <!-- TODO: Profile placeholder text -->
+    <string name="txt_prf_name">Full Name</string>
+    <string name="txt_prf_address">Address</string>
+    <string name="txt_prf_phone">Phone Number</string>
+    <string name="txt_prf_grade">Grade</string>
+    <string name="btn_txt_prf_save">Save</string>
+    <string name="btn_txt_logout">Logout</string>
+    <string name="msg_create_profile">Created successfully</string>
+
+    <!-- TODO: network error message -->
+    <string name="connection_error">Check your internet connection</string>
+    <string name="network_error">Internal server error</string>
+    <string name="invalid_credential">Invalid credential</string>
+
+    <!-- TODO: Schedule placeholder text -->
+    <string name="txt_subject">Subject</string>
+    <string name="txt_subject_desc">Description</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_start_time">Start Time</string>
+    <string name="txt_end_time">End Time</string>
+    <string name="txt_header_add_schedule">Add Schedule</string>
+    <string name="btn_txt_create_schedule">Create</string>
+    <string name="btn_txt_update_schedule">Update</string>
+    <string name="txt_search_students">Search students</string>
+    <string name="txt_select_students">Select students</string>
+    <string name="txt_save">SAVE</string>
+    <string name="txt_add">ADD</string>
+    <string name="txt_add_student_id">Enter studentId</string>
+    <string name="txt_add_student">Add Student</string>
+    <string name="btn_txt_delete_schedule">Delete</string>
+    <string name="title_create">Add Schedule</string>
+    <string name="title_update">Update Schedule</string>
+    <string name="body_create">Created successfully</string>
+    <string name="body_update">Updated successfully</string>
+    <string name="title_delete">Delete Schedule</string>
+    <string name="body_delete">Deleted successfully</string>
+    <string name="btn_txt_done">Done</string>
+</resources>
